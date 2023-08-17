@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="/dist/output.css" rel="stylesheet" />
 </head>
 <body class="flex h-screen justify-center lg:items-center w-screen">
     <main class="w-[375px] lg:w-[1200px] flex flex-col items-center md:justify-center p-[17px]">
